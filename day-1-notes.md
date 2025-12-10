@@ -6,3 +6,4 @@ I learned how to:
 - Add a README
 - Make commits
 - Interact with other developers
+Added new section on Dec 9 – learning GitHub features.
